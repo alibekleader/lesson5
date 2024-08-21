@@ -1,0 +1,33 @@
+{
+  "header": {
+    "dashboard": "boshqaruv paneli",
+    "users": "foydalanuvchilar",
+    "products": "mahsulotlar"
+  },
+
+  "profile": {
+    "profileInfo": "Profil ma'lumotlari",
+    "username": "Foydalanuvchi nomi",
+    "joined": "Qo'shildi",
+    "bio": "Biografiya",
+    "updateProfile": "Profilni yangilash",
+    "email": "Elektron pochta"
+  },
+
+  "product": {
+    "addNewProduct": "Yangi mahsulot qo'shish",
+    "priceAscending": "Narx bo'yicha oshishi",
+    "priceDescending": "Narx bo'yicha kamayishi",
+    "searchByTitle": "Sarlavha bo'yicha qidirish"
+  },
+
+  "users": {
+    "firstName": "Ism",
+    "lastName": "Familiya",
+    "email": "Elektron pochta",
+    "phone": "Telefon",
+    "actions": "Harakatlar",
+    "searchUsers": "Foydalanuvchilarni qidirish",
+    "addUser": "Foydalanuvchi qo'shish"
+  }
+}

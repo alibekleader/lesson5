@@ -1,0 +1,33 @@
+{
+  "header": {
+    "dashboard": "панель управления",
+    "users": "пользователи",
+    "products": "продукты"
+  },
+
+  "profile": {
+    "profileInfo": "Информация о профиле",
+    "username": "Имя пользователя",
+    "joined": "Присоединился",
+    "bio": "Биография",
+    "updateProfile": "Обновить профиль",
+    "email": "Электронная почта"
+  },
+
+  "product": {
+    "addNewProduct": "Добавить новый продукт",
+    "priceAscending": "По возрастанию цены",
+    "priceDescending": "По убыванию цены",
+    "searchByTitle": "Поиск по названию"
+  },
+
+  "users": {
+    "firstName": "Имя",
+    "lastName": "Фамилия",
+    "email": "Электронная почта",
+    "phone": "Телефон",
+    "actions": "Действия",
+    "searchUsers": "Поиск пользователей",
+    "addUser": "Добавить пользователя"
+  }
+}

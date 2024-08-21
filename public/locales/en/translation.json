@@ -1,0 +1,31 @@
+{
+  "header": {
+    "dashboard": "dashboard",
+    "users": "users",
+    "products": "products"
+  },
+
+  "profile": {
+    "profileInfo": "Profile information",
+    "username": "Username",
+    "joined": "Joined",
+    "bio": "Bio",
+    "updateProfile": "Update profile",
+    "email": "Email"
+  },
+  "product": {
+    "addNewProduct": "Add new product",
+    "priceAscending": "Price ascending",
+    "priceDescending": "Price descending",
+    "searchByTitle": "Search by title"
+  },
+  "users": {
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "Email",
+    "phone": "Phone",
+    "actions": "Actions",
+    "searchUsers": "Search users",
+    "addUser": "Add user"
+  }
+}
